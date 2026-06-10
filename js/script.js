@@ -151,7 +151,7 @@ const portfolioData = [
     bg: "linear-gradient(135deg,#a18cd1,#fbc2eb)",
     desc: "Business website with modern design and CMS",
     link: "https://sanjayraj26.github.io/SpaceG/",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+    image: "assets/graphics/spaceG.png"
   },
   {
     title: "juicy",

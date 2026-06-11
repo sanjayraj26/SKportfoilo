@@ -173,8 +173,8 @@ const portfolioData = [
     category: "web",
     bg: "linear-gradient(135deg,#ffecd2,#fcb69f)",
     desc: "Hero animations, online reservation system, menu showcase",
-    link: "https://github.com",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop"
+    link: "https://sanjayraj26.github.io/foodk/",
+     image: "assets/graphics/rs.jpg"
   },
   {
     title: "Minimalist Logo Collection",

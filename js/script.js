@@ -146,7 +146,7 @@ const portfolioData = [
     image: "assets/graphics/bro-1.png"
   },
   {
-    title: "Corporate Website",
+    title: "spaceG Website",
     category: "web",
     bg: "linear-gradient(135deg,#a18cd1,#fbc2eb)",
     desc: "Business website with modern design and CMS",

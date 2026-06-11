@@ -151,7 +151,7 @@ const portfolioData = [
     bg: "linear-gradient(135deg,#a18cd1,#fbc2eb)",
     desc: "Business website with modern design and CMS",
     link: "https://github.com",
-    image: "assets/graphics/SpaceG.jpg"
+    image: "assets/graphics/spaceG.jpg"
   },
   {
     title: "juicy",

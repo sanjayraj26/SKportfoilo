@@ -166,7 +166,7 @@ const portfolioData = [
     category: "graphic",
     bg: "linear-gradient(135deg,#a1c4fd,#c2e9fb)",
     desc: "Complete Instagram templates, brand assets, story designs",
-    image: "https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800&h=600&fit=crop"
+    image: ""
   },
   {
     title: "Restaurant Landing Page",
@@ -181,14 +181,14 @@ const portfolioData = [
     category: "graphic",
     bg: "linear-gradient(135deg,#667eea,#764ba2)",
     desc: "Set of 10 minimalist logos for various brands",
-    image: "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=800&h=600&fit=crop"
+    image: ""
   },
   {
     title: "Brand Guideline Book",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
-    image: "https://images.unsplash.com/photo-1545235617-7a424c1a60cc?w=800&h=600&fit=crop"
+    image: ""
   }
 ];
 

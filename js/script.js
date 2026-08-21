@@ -67,56 +67,56 @@ const portfolioData = [
     image: "assets/graphics/spotify1.jpg"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "social media design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
-    desc: "Complete brand identity, logo design, packaging system",
+    desc: "Complete brand identity, logo design ",
     image: "assets/graphics/so-1.jpg"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "social media design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "Complete brand identity, logo design, packaging system",
     image: "assets/graphics/so-2.jpg"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "Business card design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
-    desc: "Complete brand identity, logo design, packaging system",
+    desc: "Complete brand identity, logo design, raven design",
     image: "assets/graphics/img-b.jpg"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "Brochure design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
-    desc: "Complete brand identity, logo design, packaging system",
+    desc: "Complete brand identity, logo design, Brochure design",
     image: "assets/graphics/bro-1.png"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "social media design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
-    desc: "Complete brand identity, logo design, packaging system",
+    desc: "Complete brand identity, logo design, social media design",
     image:  "assets/graphics/so-5.jpg"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "Business card design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
-    desc: "Complete brand identity, logo design, packaging system",
+    desc: "Complete brand identity, logo design, raven design",
     image: "assets/graphics/img-2.jpg"
   },
   {
-    title: "Organic Skincare Brand",
+    title: "Business card design",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
-    desc: "Complete brand identity, logo design, packaging system",
+    desc: "Complete brand identity, logo design, raven design",
     image: "assets/graphics/img-b1.png"
   },
   {
-    title: "Botanical Essence",
+    title: "Flyers",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "Eco-friendly visual identity, packaging & label design",
@@ -139,19 +139,19 @@ const portfolioData = [
     image: "assets/graphics/arena.jpg"
   },
   {
-    title: "Concert Posters Series",
+    title: "Brochure design",
     category: "graphic",
     bg: "linear-gradient(135deg,#fa709a,#fee140)",
-    desc: "3-poster music festival campaign, typography focus",
+    desc: "3-poster festival campaign, typography focus",
     image: "assets/graphics/bro-1.png"
   },
   {
-    title: "spaceG Website",
+    title: "Corporate Website",
     category: "web",
     bg: "linear-gradient(135deg,#a18cd1,#fbc2eb)",
     desc: "Business website with modern design and CMS",
     link: "https://sanjayraj26.github.io/SpaceG/",
-    image: "assets/graphics/spaceG.jpg"
+    image: "assets/graphics/SpaceG.jpg"
   },
   {
     title: "juicy",
@@ -166,7 +166,7 @@ const portfolioData = [
     category: "graphic",
     bg: "linear-gradient(135deg,#a1c4fd,#c2e9fb)",
     desc: "Complete Instagram templates, brand assets, story designs",
-    image: ""
+    image:  "assets/graphics/post-1.png"
   },
   {
     title: "Restaurant Landing Page",
@@ -174,22 +174,23 @@ const portfolioData = [
     bg: "linear-gradient(135deg,#ffecd2,#fcb69f)",
     desc: "Hero animations, online reservation system, menu showcase",
     link: "https://sanjayraj26.github.io/foodk/",
-     image: "assets/graphics/rs.jpg"
+    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop"
   },
   {
-    title: "Minimalist Logo Collection",
+    title: "social media kit",
     category: "graphic",
     bg: "linear-gradient(135deg,#667eea,#764ba2)",
     desc: "Set of 10 minimalist logos for various brands",
-    image: ""
+    image:  "assets/graphics/post-2.png"
   },
   {
-    title: "Brand Guideline Book",
+    title: "social media kit",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
-    image: ""
+    image:  "assets/graphics/post-3.png"
   }
+  
 ];
 
 // ========== LIGHTBOX MODAL - WORKS FOR ALL CATEGORIES ==========

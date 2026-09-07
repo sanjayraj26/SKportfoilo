@@ -162,7 +162,7 @@ const portfolioData = [
     image:  "assets/graphics/colddrink.jpg"
   },
   {
-    title: "Social Media Kit",
+    title: " Headphone Set",
     category: "graphic",
     bg: "linear-gradient(135deg,#a1c4fd,#c2e9fb)",
     desc: "Complete Instagram templates, brand assets, story designs",
@@ -177,49 +177,49 @@ const portfolioData = [
     image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&h=600&fit=crop"
   },
   {
-    title: "social media kit",
+    title: "Chocolate ice cream cone",
     category: "graphic",
     bg: "linear-gradient(135deg,#667eea,#764ba2)",
     desc: "Set of 10 minimalist logos for various brands",
     image:  "assets/graphics/post-2.png"
   },
   {
-    title: "social media kit",
+    title: " Chocomint ice cream cone",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
     image:  "assets/graphics/post-3.png"
   },
   {
-    title: "social media kit",
+    title: "Tikka social media post",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
     image:  "assets/graphics/post-8.png"
   },
   {
-    title: "social media kit",
+    title: " Corporate social media post",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
     image:  "assets/graphics/post-4.png"
   },
     {
-    title: "social media kit",
+    title: "Corporate social media ",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
     image:  "assets/graphics/post-5.png"
   },
     {
-    title: "social media kit",
+    title: " Street Food social media post",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
     image:  "assets/graphics/post-6.png"
   },
     {
-    title: "social media kit",
+    title: " Wrap Tastic social media post",
     category: "graphic",
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",

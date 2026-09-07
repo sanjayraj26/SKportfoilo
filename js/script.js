@@ -151,7 +151,7 @@ const portfolioData = [
     bg: "linear-gradient(135deg,#a18cd1,#fbc2eb)",
     desc: "Business website with modern design and CMS",
     link: "https://sanjayraj26.github.io/SpaceG/",
-    image: "assets/graphics/spaceG.jpg"
+    image: "assets/graphics/SpaceG.jpg"
   },
   {
     title: "juicy",
@@ -189,7 +189,43 @@ const portfolioData = [
     bg: "linear-gradient(135deg,#f093fb,#f5576c)",
     desc: "60-page brand guideline document with visual systems",
     image:  "assets/graphics/post-3.png"
-  }
+  },
+  {
+    title: "social media kit",
+    category: "graphic",
+    bg: "linear-gradient(135deg,#f093fb,#f5576c)",
+    desc: "60-page brand guideline document with visual systems",
+    image:  "assets/graphics/post-8.png"
+  },
+  {
+    title: "social media kit",
+    category: "graphic",
+    bg: "linear-gradient(135deg,#f093fb,#f5576c)",
+    desc: "60-page brand guideline document with visual systems",
+    image:  "assets/graphics/post-4.png"
+  },
+    {
+    title: "social media kit",
+    category: "graphic",
+    bg: "linear-gradient(135deg,#f093fb,#f5576c)",
+    desc: "60-page brand guideline document with visual systems",
+    image:  "assets/graphics/post-5.png"
+  },
+    {
+    title: "social media kit",
+    category: "graphic",
+    bg: "linear-gradient(135deg,#f093fb,#f5576c)",
+    desc: "60-page brand guideline document with visual systems",
+    image:  "assets/graphics/post-6.png"
+  },
+    {
+    title: "social media kit",
+    category: "graphic",
+    bg: "linear-gradient(135deg,#f093fb,#f5576c)",
+    desc: "60-page brand guideline document with visual systems",
+    image:  "assets/graphics/post-7.png"
+  },
+  
   
 ];
 
